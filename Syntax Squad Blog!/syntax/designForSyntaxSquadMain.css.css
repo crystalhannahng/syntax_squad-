@@ -1,0 +1,222 @@
+body
+{
+    background-image: url(Images/MainTabPic.jpg);
+    background-position: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h1
+{
+    color: #332211;
+    font-size: 50px;
+    -webkit-text-stroke: 0.30px white;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.dpSison 
+{
+    position: relative;
+    top: 35px;
+    left: 180px;
+    
+    width: 200px;            
+    height: 200px;          
+    border-radius: 50%;      
+    border: 5px solid #332211;
+    object-fit: cover;
+}
+
+.nameSison 
+{
+  position: relative;   
+  bottom: -20px;        
+  left: 180px;            
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+  
+}
+
+.b1
+{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #DABE99;
+  border: 2px solid #332211;
+  color: #332211;
+  border-radius: 8px;
+  font-weight: bold;
+
+  position: relative;   
+  bottom: -20px;  
+  top: -180px;      
+  left: 200px;            
+}
+
+.dpTolentino
+{
+    position: relative;
+    top: -257px;
+    left: 480px;
+
+    width: 200px;            
+    height: 200px;          
+    border-radius: 50%;      
+    border: 5px solid #332211;
+    object-fit: cover;
+}
+
+.nameTolentino
+{
+  position: relative; 
+  top: -283px;  
+  bottom: -20px;        
+  left: 627px;            
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+  
+}
+
+.b2
+{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #DABE99;
+  border: 2px solid #332211;
+  color: #332211;
+  border-radius: 8px;
+  font-weight: bold;
+
+  position: relative;   
+  bottom: -20px;  
+  top: -485px;      
+  left: 670px;            
+}
+
+.dpNg
+{
+    position: relative;
+    top: -555px;
+    left: 940px;
+
+    width: 200px;            
+    height: 200px;          
+    border-radius: 50%;      
+    border: 5px solid #332211;
+    object-fit: cover;
+}
+
+.nameNg
+{
+  position: relative; 
+  top: -585px;  
+  bottom: -20px;        
+  left: 1110px;            
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+}
+
+.b3
+{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #DABE99;
+  border: 2px solid #332211;
+  color: #332211;
+  border-radius: 8px;
+  font-weight: bold;
+
+  position: relative;   
+  bottom: -20px;  
+  top: -785px;      
+  left: 1140px;             
+}
+
+.dpAgcaoili
+{
+    position: relative;
+    top: -500px;
+    left: 700px;
+
+    width: 200px;            
+    height: 200px;          
+    border-radius: 50%;      
+    border: 5px solid #332211;
+    object-fit: cover;
+}
+
+.nameAgcaoili
+{
+  position: relative; 
+  top: -530px;  
+  bottom: -20px;        
+  left: 875px;            
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+}
+
+.b4
+{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #DABE99;
+  border: 2px solid #332211;
+  color: #332211;
+  border-radius: 8px;
+  font-weight: bold;
+
+  position: relative;   
+  bottom: -20px;  
+  top: -730px;      
+  left: 895px;            
+}
+
+.dpBello
+{
+    position: relative;
+    top: -800px;
+    left: 235px;
+
+    width: 200px;            
+    height: 200px;          
+    border-radius: 50%;      
+    border: 5px solid #332211;
+    object-fit: cover;
+}
+
+.nameBello
+{
+  position: relative; 
+  top: -830px;  
+  bottom: -20px;        
+  left: 410px;            
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+}
+
+.b5
+{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #DABE99;
+  border: 2px solid #332211;
+  color: #332211;
+  border-radius: 8px;
+  font-weight: bold;
+
+  position: relative;   
+  bottom: -20px;  
+  top: -850px;      
+  left: 428px;            
+}
