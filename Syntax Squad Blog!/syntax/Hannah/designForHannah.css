@@ -1,0 +1,86 @@
+
+body
+{
+  background-image: url(HannahImage/HannahBg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(0, 0, 0);
+  margin: 0%;
+  padding: 50px 0;
+}
+
+.m-container
+{
+  display: flex;
+  gap: 50px;
+  align-items: flex-start;
+  margin: 30px auto;
+  max-width: 1300px;
+}
+
+h1,h2
+{
+  color: #fff;
+}
+
+.left-col 
+{
+  width: 320px;               
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.mySelf
+{
+  width: 250px;            
+  height: 230px;          
+  border-radius: 50%;      
+  border: 5px solid white;
+  object-fit: cover;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+}
+
+.mySelf:hover {
+  transform: translateY(-5px);
+}
+
+.myBlog
+{
+  background: rgba(255, 255, 255, 0.562);
+  border-radius: 16px;
+  padding: 20px;
+  margin: 50px auto;
+  max-width: 900px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+  line-height: 1.4;
+}
+
+.myBlog,  h3
+{
+  margin-bottom: 10px;
+}
+
+video
+{
+  border-radius: 8px;
+  margin: 5px 0; 
+}
+
+.myFavMusic {
+  background: rgba(255, 255, 255, 0.562);
+  border-radius: 16px;
+  padding: 20px;
+  margin: 20px auto ;
+  max-width: 900px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  line-height: 1.4;
+}
+
+audio
+{
+  margin: 5px 0; 
+}
+
